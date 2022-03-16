@@ -1,0 +1,31 @@
+{
+  "name": "lap1codingchallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "type": "git",
+    "url": "git+https://github.com/FarzanaRU00/lap1codingchallenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarzanaRU00/lap1codingchallenge/issues"
+  },
+  "homepage": "https://github.com/FarzanaRU00/lap1codingchallenge#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "json": "^11.0.0",
+    "node": "^17.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
